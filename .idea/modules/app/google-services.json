@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883912581263",
+    "firebase_url": "https://easyfitness-12a38.firebaseio.com",
+    "project_id": "easyfitness-12a38",
+    "storage_bucket": "easyfitness-12a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883912581263:android:d689d1ffbbce629abe90fa",
+        "android_client_info": {
+          "package_name": "com.e.easyfitness.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883912581263-bic4pkkle5nhfhdnv9diog3tg290q9jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.easyfitness.debug",
+            "certificate_hash": "fb59d0583b589cee1abf4729ca3c7b7a0580ce8b"
+          }
+        },
+        {
+          "client_id": "883912581263-hphq1r33qp2937nnegtm9bd34kofkjv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe10wHO2yGSi24ObG8wz2vBe3E4cg_kBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883912581263-hphq1r33qp2937nnegtm9bd34kofkjv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

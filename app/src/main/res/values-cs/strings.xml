@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_confirm">Potvrdit</string>
+    <string name="global_confirm_question">Jste si jisti</string>
+    <string name="global_warning">Varování</string>
+    <string name="global_cancel">Zrušit</string>
+    <string name="global_ok">Ok</string>
+    <string name="global_yes">Ano</string>
+    <string name="global_no">Ne</string>
+
+    <string name="removedid">ID odstraněno</string>
+    <string name="failedtocreatefolder">Chyba při vytváření složky</string>
+
+    <string name="action_settings">Nastavení</string>
+    <string name="DateLabel">Datum</string>
+
+    <string name="FunctionLabel">Zobrazení</string>
+    <string name="HistoryLabel">Historie</string>
+    <string name="GraphLabel">Grafy</string>
+    <string name="AddLabel">Přidat</string>
+    <string name="DeleteLabel">Odstranit</string>
+    <string name="ShareLabel">Sdílet</string>
+    <string name="EditLabel">Editovat</string>
+    <string name="DeleteRecordDialog">Odstranit tento záznam?</string>
+
+    <!-- Fonte Fragment -->
+    <string name="FonteLabel">Kulturistika</string>
+    <string name="SerieLabel">Série</string>
+    <string name="RepetitionLabel_short">Opk</string>
+    <string name="MachineLabel">Cviky</string>
+    <string name="PoidsLabel">Hmotnost</string>
+    <string name="NotesLabel">Poznámka</string>
+    <string name="TopTenLabel">Poslední záznamy:</string>
+
+    <!-- Share text -->
+    <string name="ShareText">Sdílet</string>
+    <string name="ShareTitle">Sdílet váš výkon</string>
+    <string name="ShareInstruction">Editujte text před odesláním:</string>
+    <string name="ShareTextDefault">Zvedl jsem __WEIGHT__ kg na __MACHINE__ !</string>
+
+    <!-- Cardio Fragment -->
+    <string name="CardioLabel">Kardio</string>
+    <string name="DistanceLabel">Vzdálenost</string>
+    <string name="DurationLabel">Trvání</string>
+
+    <!-- Profile Fragment -->
+    <string name="weightMenuLabel">Sledování Hmotnosti</string>
+    <string name="weightLabel">Hmotnost</string>
+    <string name="fatLabel">Tuk</string>
+    <string name="bonesLabel">Kost</string>
+    <string name="waterLabel">Voda</string>
+    <string name="musclesLabel">Svaly</string>
+    <string name="measureLabel">Hodnota</string>
+    <string name="sizeTableLabel">Historie vážení:</string>
+    <string name="createProfilTitle">Vytvořit nový profil</string>
+    <string name="profileSelected">Profil zvolen</string>
+    <string name="createProfilQuestion">Jméno vašeho profilu?</string>
+    <string name="userChanged">Profil změněn na</string>
+    <string name="renameProfilTitle">Přejmenovat profil</string>
+    <string name="renameProfilQuestion">Přejmenovat tento profil?</string>
+
+    <!-- Pour le menu settings -->
+    <string name="SettingLabel">Nastavení</string>
+    <string name="export_database">Exportovat Záznamy</string>
+    <string name="export_question">Chcete exportovat databázi profilu </string>
+    <string name="export_success">Databáze exportována</string>
+    <string name="export_failed">Chyba exportu databáze</string>
+    <string name="import_database">Importovat Záznamy</string>
+
+    <string name="deleteDB_warning">
+        Tato akce vyresetuje celou aplikaci.
+        Veškerá data budou ztracena.
+        Opravdu provést?
+        Aplikace bude ukončena.
+    </string>
+    <string name="ResetAppLabel">Resetovat aplikaci</string>
+
+    <!-- Machine Fragment -->
+    <string name="MachinesLabel">Cvičení</string>
+
+    <!-- Preferences -->
+    <string name="pref_ui_setting">Nastavení prostředí</string>
+    <string name="pref_show_mp3_player">Zobrazit MP3 Přehrávač</string>
+    <string name="pref_show_mp3_player_summary">Zobrazit/skrýt řádek s MP3 přehrávačem</string>
+
+    <string name="pref_preferredUnitSummary">Preferovaná jednotka:</string>
+    <string name="pref_preferredUnitTitle">Zvolte preferovanou jednotku hmotnosti</string>
+
+    <string name="profil_create_new">Vytvořit nový profil</string>
+    <string name="profil_change">Změnit profil</string>
+    <string name="profil_select_profil">Zvolit profil</string>
+    <string name="profil_delete">Smazat profil</string>
+    <string name="profil_select_profil_to_delete">Zvolit profil k vymazání</string>
+
+    <!-- About Fragment  -->
+    <string name="AboutLabel">O aplikaci</string>
+
+    <!-- Navigation Drawer -->
+    <string name="drawer_open">Otevřít panel navigace</string>
+    <string name="drawer_close">Zavřít panel navigace</string>
+
+    <string name="maxRep1">Maximum (Opak >= 1)</string>
+    <string name="maxRep5d">Maximum (Opak >= 5)</string>
+    <string name="sum">Suma</string>
+
+    <string name="sumDistance">Vzdálenost</string>
+    <string name="sumDuration">Trvání</string>
+    <string name="speed">Rychlost</string>
+
+    <string name="maxWeightPerDuration">"Maximální Váha za Období"</string>
+    <string name="nbSeriesPerDate">Počet Sérii za Období</string>
+
+    <string name="all">Vše</string>
+
+    <string name="bodytracking">Sledování svalů</string>
+    <string name="selectMuscles">Zvolte Svaly</string>
+
+    <!-- Muscles -->
+    <string name="biceps">Bicepsy</string>
+    <string name="triceps">Tricepsy</string>
+    <string name="pectoraux">Prsa</string>
+    <string name="deltoids">Deltoidy</string>
+
+    <string name="dorseaux">Záda</string>
+    <string name="abdominaux">Břicho</string>
+
+    <string name="quadriceps">Quadricepsy</string>
+    <string name="ischio_jambiers">Hamstringy</string>
+    <string name="adducteurs">Stehna</string>
+    <string name="mollets">Lýtka</string>
+
+    <!-- Body Parts -->
+    <string name="left_arm">Levý biceps</string>
+    <string name="right_arm">Pravý biceps</string>
+    <string name="neck">Neck</string>
+    <string name="left_thigh">Levé stehno</string>
+    <string name="right_thigh">Pravé stehno</string>
+    <string name="left_calves">Levé lýtko</string>
+    <string name="right_calves">Pravé lýtko</string>
+    <string name="waist">Pás</string>
+    <string name="behind">Zadek</string>
+
+    <string name="backDialog_confirm_text">Uložit před odejitím?</string>
+    <string name="deleteMachine_confirm_text">Opravdu vymazat toto cvičení? Všechny připojené záznamy budou smazány.</string>
+    <string name="renameMachine_warning_text">VAROVÁNÍ: Tto cvičení již existuje. Záznamy budou spojeny s existujícím cvičením.</string>
+
+
+    <!-- Photo -->
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+
+    <!-- DateGraph -->
+    <string name="graph_all">Vše</string>
+    <string name="graph_lastyear">Minulý Rok</string>
+    <string name="graph_lastmonth">Minulý Měsíc</string>
+    <string name="graph_lastweek">Minulý Týden</string>
+
+    <!-- Chronometer -->
+    <string name="ChronometerLabel">Stopky</string>
+    <string name="CountdownLabel">Doba odpočinku</string>
+    <string name="activate_rest_time">Aktivovat počítadlo odpočinku</string>
+    <string name="rest_time">Doba odpočinku (sekund)</string>
+    <string name="lastRecordLabel">Minulý záznam</string>
+    <string name="MachineHint">Filtrovat dle jména cvičení</string>
+    <string name="total_weight">Celková hmotnost</string>
+    <string name="total_session">Celkem při tréningu</string>
+    <string name="total_machine">Celkem při cviku</string>
+    <string name="nb_serie">Počet sérií</string>
+    <string name="exit">Odejít</string>
+    <string name="selectMachineDialogLabel">Zvolte existující cvik</string>
+
+    <!-- Intro slides -->
+    <string name="fillNameField">Vyplňte alespoň vaše jméno</string>
+    <string name="introSlide1Title">Dobrý den</string>
+    <string name="size_cm_optional">Velikost in cm (optional)</string>
+    <string name="create">Vytvořit</string>
+    <string name="birthday_optional">Datum narození (volitelně)</string>
+    <string name="name_or_pseudo">Jméno / přezdívka</string>
+    <string name="name_is_required">Jméno je vyžadováno</string>
+    <string name="create_a_profile">Vytvořit profil</string>
+    <string name="introSlide1Text">Vítejte ve Fast N Fitness! Tato aplikace umožňuje rychle a jednoduše zaznamenávat vaše tréningy, sledovat váš postup a vývoj vašeho těla.</string>
+    <string name="introSlide2Text">Zapište jméno cviku a podrobnosti, pro vytvoření. Naleznete je pak v seznamu cviků.</string>
+    <string name="introSlide2Title">Rychle a jednoduše</string>
+    <string name="titleSlideEssential">Věnujte se podstatnému</string>
+    <string name="textSlideEssential">Žádná cvičení nejsou před-vytvořena. Vytvořte vlastní cviky v závislosti na stojích, které máte k dispozici.</string>
+    <string name="pressBackAgain">Stiskněte ZPĚT ještě jedou pro ukončení</string>
+    <string name="titleSlideOpenSource">Toto je svobodná aplikace!</string>
+    <string name="textSlideOpenSource">Připojte se ke komunitě a společně vytvořme nejlepší fitness aplikaci! Přejděte na https://github.com/brodeurlv/fastnfitness</string>
+    <string name="profileCreated">Profil vytvořen</string>
+    <string name="missinginfo">Zcházející informace</string>
+    <string name="createExerciseFirst">Nejprve je nutno vytvořit cvičení</string>
+    <string name="impossibleToDeleteProfile">Aktuálně zvolený profil nelze smazat</string>
+    <string name="profileDeleted">Profil smazán</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="areyousure">Opravdu?</string>
+    <string name="edit_soon_available">Editace brzy k dispozici</string>
+    <string name="name">Jméno</string>
+    <string name="description">Popis</string>
+    <string name="muscles">Svaly</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="profileEnterYourSize">Vaše výška</string>
+    <string name="profileEnterYourBirthday">Vaše datum narození</string>
+    <string name="profile_page">Profilová stránka</string>
+    <string name="ProfileLabel">Profil</string>
+    <string name="edit_value">Upravit hodnotu</string>
+    <string name="menu_Workout">Tréning</string>
+    <string name="renameMachine_error_text2">CHYBA: Jméno cvičení již existuje. Není možno sloučit záznamy dvou cvičení se stejným jménem, ale různým typem.</string>
+    <string name="recordcopied">Záznam kopírován</string>
+    <string name="imcLabel">BMI</string>
+    <string name="rfmLabel">RFM</string>
+    <string name="underweight">podváha</string>
+    <string name="normal">normální</string>
+    <string name="overweight">nadváha</string>
+    <string name="obese">obezita</string>
+    <string name="maleGender">Muž</string>
+    <string name="femaleGender">Žena</string>
+    <string name="otherGender">Jiné</string>
+    <string name="enter_gender_here">Zvolte pohlaví</string>
+    <string name="no_size_available">výška není k dispozici</string>
+    <string name="no_weight_available">hmotnost není k dispozici</string>
+    <string name="BMI_dialog_title">Body Mass Index (BMI)</string>
+    <string name="BMI_formula">BMI = hmotnost(kg) / výška(m)²</string>
+    <string name="RFM_dialog_title">Relative Fat Mass Index (RFM)</string>
+    <string name="RFM_female_formula">Ženy: RFM = 76 – (20 x (výška/obvod v pase))</string>
+    <string name="RFM_male_formula">Muži: RFM = 64 – (20 x (výška/obvod v pase))</string>
+    <string name="access_granted">Přístup udělen</string>
+    <string name="another_time_maybe">Možná jindy :)</string>
+    <string name="new_folder">Nnová složka</string>
+    <string name="ffmiLabel">FFMI</string>
+    <string name="FFMI_dialog_title">Fat-free mass index (FFMI)</string>
+    <string name="FFMI_formula">FFMI [kg/m2] = hmotnost [kg] × (1 − (tělesný tuk [%] / 100)) / (výška [m])²</string>
+    <string name="no_fat_available">tuk není dostupný</string>
+    <string name="indexLabel">Index</string>
+    <string name="what_type_of_exercise">Jaký druh cvičení?</string>
+    <string name="exercise_type">Druh cvičení:</string>
+    <string name="staticExercise">Isometrické</string>
+    <string name="SecondsLabel_short">Sekundy</string>
+    <string name="imported_successfully"> úspěšně importováno</string>
+    <string name="import_failed"> chyba importu</string>
+    <string name="import_new_exercise_first">(Nejprve naimportujte nová cvičení)</string>
+    <string name="FilterHint">Filtrujte podle názvu cvičení</string>
+    <string name="author_label">Autor:</string>
+    <string name="obliques">Šikmé svaly</string>
+    <string name="shoulders">Ramena</string>
+    <string name="trapezius">Trapezius</string>
+    <string name="pref_preferredDistanceUnitTitle">Vyberte preferovanou jednotku vzdálenosti</string>
+    <string name="daynightmode_settingtitle">Vyberte téma (je třeba restartovat)</string>
+    <string name="timeLabel">Čas</string>
+    <string name="delete_bodypart_confirm">Chcete smazat tuto část těla? Všechny související opatření budou smazány.</string>
+    <string name="new_measure">Nové opatření</string>
+    <string name="enter_profile_name">Zadejte název profilu</string>
+    <string name="enter_size_cm">Zadat velikost (cm)</string>
+    <string name="enter_birthday">Vstoupit narozeniny</string>
+    <string name="enter_bodypart_name">Vstoupit do těla název dílu</string>
+    <string name="strength_category">Síla</string>
+    <string name="add_to_template">Přidat do programu</string>
+    <string name="automatic_date_time">Automatické datum / čas</string>
+    <string name="edit">Upravit</string>
+    <string name="enter_workout_name">Zadejte název programu</string>
+    <string name="filter_by_workout_name">Filtrovat podle názvu programu</string>
+    <string name="finish_program">Kompletní program</string>
+    <string name="newStr">Nový</string>
+    <string name="new_program">nový program</string>
+    <string name="program_running">Program:</string>
+    <string name="program_preview">Program náhled:</string>
+    <string name="programs">Programy:</string>
+    <string name="start_program">Program Start</string>
+    <string name="update">Aktualizace</string>
+    <string name="workout_list_menu_item">Seznam programů</string>
+    <string name="record_editor">Editor</string>
+    <string name="please_start_program_first">Prosím spustit program nejprve</string>
+    <string name="program_ongoing">Program probíhajících:</string>
+    <string name="rest_time_row">Čas odpočinku:</string>
+    <string name="program">Program</string>
+    <string name="free_workout">Zdarma sezení</string>
+    <string name="this_program_is_empty">Tento program je prázdná</string>
+    <string name="total_on">Celkem při</string>
+    <string name="info">informace</string>
+    <string name="editor">Editor</string>
+    <string name="dark_mode">Temný</string>
+    <string name="autoui_mode">Auto</string>
+    <string name="details">podrobnosti</string>
+    <string name="unit_settings_title">Jednotky</string>
+    <string name="no_chart_data_available">Žádná data</string>
+    <string name="light_mode">Průhledná</string>
+    <string name="remove_image">Delete image</string>
+    <string name="pref_preferredSizeUnitTitle">Zvolit preferovanou velikost jednotky</string>
+    <string name="program_completed">Jste dokončili program! Chcete ji zavřít?</string>
+    <string name="maxLengthPerDate">Maximální délka trvání jednoho Datum</string>
+
+</resources>
